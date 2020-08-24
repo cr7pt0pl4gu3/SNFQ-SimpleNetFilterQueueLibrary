@@ -5,6 +5,5 @@ It also applies linux commands necessary to manipulate the queue on a basic way,
 
 My projects using the SNFQ Library:
 
-https://github.com/TheRavehorn/File-Interceptor
-
+https://github.com/TheRavehorn/File-Interceptor<br>
 https://github.com/TheRavehorn/Code-Injector (lib slightly modified for Python 2)
